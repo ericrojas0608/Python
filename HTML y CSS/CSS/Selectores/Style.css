@@ -1,0 +1,83 @@
+
+/*agrega estilo a toda la pagina*/
+/*
+*{
+    font-size: 50px;
+}
+*/
+
+/*/* selector de etiqueta 
+h1{
+    background-color: indigo;
+}
+
+h2{
+    font-family: sans-serif;
+    font-size: 48px;
+}
+
+p{
+    text-align:justify;
+}
+*/
+/*
+h1,h2,h3,h4,h5,h6,p,a{
+    color: red;
+    font-family: lucida sans;
+    background-color: black;
+}
+
+h1{
+    font-size: 72px;
+}*/
+/*Selector ID y Class
+p.p1{
+    color: white;
+    background-color: black;
+    font-size: 45px;
+}
+ la clase se pude repetir en varios elementos, el id es unico
+#identificador{
+    font-size: 30px;
+    font-family: arial;
+    color: chartreuse;
+}*/
+
+/*selector descendencia*/
+/*
+p a{
+    background-color: yellow;
+}*/
+
+/*selector hijo*/
+/*h1 > a{
+    color: coral;
+    font-size: 48px;
+    font-family: Verdana;
+    background-color: darkslategray;
+}
+p > a{
+    color: firebrick;
+    font-size: 72px;
+}*/
+
+/*selctor atributo - cercano a*/
+/*
+h2 + h3{
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: fuchsia;
+}
+*/
+/*selector de atributo */
+/*[class]{
+    color: red;
+    font-size: 48px;
+    background-color: pink;
+}*/
+
+[class="p1"]{
+    color: red;
+    font-size: 48px;
+    background-color: pink;
+}
