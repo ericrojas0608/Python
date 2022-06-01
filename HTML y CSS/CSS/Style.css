@@ -1,0 +1,36 @@
+/*
+p{
+    color: red;
+}
+
+h1{
+    color: blue;
+}
+
+main{
+    background-color: green;
+}
+
+body{
+    background-color: black;
+}
+*/
+/*herencia*/
+/*p{
+    background-color: yellow;
+    color: white;
+
+}
+tomar los estilos de los elementos cercanos osea los padres (inherit) 
+a{
+    color: inherit;
+}*/
+
+/*especificidad - orden o prioridad en que se colocan los estilos a partir de su selector*/
+#identificador{
+    color: lightsalmon;
+}
+
+p{
+    color: lightgrey !important;
+}
